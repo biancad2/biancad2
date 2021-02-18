@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancad2&theme=dracula&layout=compact">
 
-<!--
-**biancad2/biancad2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biancad2
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+Estudando/trabalhando no NUMAX<br/>
+
+Eu sou desenvolvedora de software júnior.
+
+
+</p>
+<hr>
