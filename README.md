@@ -6,9 +6,9 @@
 
 <p>
 
-Estudando/trabalhando no NUMAX<br/>
+Trabalhando no NUMAX<br/>
 
-Eu sou desenvolvedora de software júnior.
+Desenvolvedora de Software.
 
 
 </p>
